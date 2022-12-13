@@ -1,0 +1,83 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+.donut {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+.toofie {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+.phil {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+.cooney {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+.steve {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+.claus {
+    max-width: 30%;
+    border: black solid 5px;
+}
+
+body {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-image: url(https://th.bing.com/th/id/OIP.d9ZMjXqAK4CupQsgzI0srQHaHa?pid=ImgDet&rs=1);
+    color: white;
+    font-family: Verdana;
+}
+
+.friends {
+    background-color: rgb(7, 59, 16);
+    box-shadow: 0px 0px 10px black;
+}
+
+.shopname {
+    background-color: rgb(7, 59, 16);
+    box-shadow: 0px 0px 10px black;
+}
+
+.friendbutton {
+    background-color:rgb(7, 59, 16);
+    box-shadow: 0px 0px 10px black;
+}
+
+.ready {
+    width: 25%;
+    background-color: rgb(26, 171, 50);
+    font-family: Impact;
+    font-size: large;
+}
+
+.ready:hover {
+    background-color: aquamarine;
+}
+
+.ready:active {
+    background-color: blanchedalmond;
+}
+
+footer {
+    -webkit-text-stroke: 1px black;
+    font-size: 1.3em;
+}
+
+.video {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
